@@ -4,9 +4,16 @@ AWS EC2 Deployment verification of Sentiment Analysis App and Model Management u
 
 The objective of this project is to classify customer reviews as positive or negative and understand the pain points of customers who write negative reviews. By analyzing the sentiment of reviews, we aim to gain insights into product features that contribute to customer satisfaction or dissatisfaction.
 
+
 Data Preprocessing
+
+
 Text Cleaning: Remove special characters, punctuation, and stopwords from the review text.
+
+
 Text Normalization: Perform lemmatization or stemming to reduce words to their base forms.
+
+
 Numerical Feature Extraction: Apply techniques like Bag-of-Words (BoW), Term Frequency-Inverse Document Frequency (TF-IDF), Word2Vec (W2V), and BERT models for feature extraction.
 Modeling Approach
 Model Selection: Train and evaluate various machine learning and deep learning models using the embedded text data.
